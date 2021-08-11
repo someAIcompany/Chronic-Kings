@@ -1,7 +1,7 @@
 Privacy Policy
-Updated: 9 July, 2021
+Updated: 11 August, 2021
 
-We do not collect or use any data or personal information through our mobile app. 
+If a user opts to sign up, the Chronic Kings iOS App collect their name and email. We store this securely in our database and will not use it other than in this App. This app has no part in selling or leaking personal data.
 
 Contact us: 
 https://chronickings.ca/contact-us/
